@@ -2,6 +2,7 @@
 
 ## Видео
 + [Data & Science: цифровые методы в гуманитарных науках в Яндексе 2 марта 2019 года](https://events.yandex.ru/events/ds/02-mar-2019/)
++ [Борис Орехов. Современный метод компьютерной атрибуции текстов: надежность, ограничения, результаты. ИРЛИ. 14 марта 2019 года](https://www.youtube.com/watch?v=dctOHDggv1M)
 
 ## Курсы и учебные материалы для филологов
 + [Школа лингвистики НИУ ВШЭ. 1 курс. 2019–2020. Михаил Нефедов, Даниил Скоринкин и Nick Howell](https://github.com/mannefedov/compling_nlp_hse_course)
@@ -20,9 +21,10 @@
 + [DH-2018, HSE, весна 2018](https://github.com/digital-humanities-hse/DH-Minor-2018)
 + [DH-2017, HSE, весна 2017](https://github.com/digital-humanities-hse/DH-Minor-2017)
 
-## Проекты
+## Проекты / Тексты
 + [Russian Drama Corpus in TEI](https://github.com/dracor-org/rusdracor)
 + [Толстой в TEI](https://github.com/tolstoydigital/TEI)
++ [ДетКорпус](http://detcorpus.ru/)
 
 ## Теория
 ### «Новое литературное обозрение». 2018. № 2
@@ -59,4 +61,4 @@
 + Ярхо Б.И. Методология точного литературоведения: Избранные труды по теории литературы / Изд. подгот. М.В. Акимова, И.А. Пильщиков и М.И. Шапир; под общ. ред. М.И. Шапира. М.: Языки славянских культур, 2006.
 + Jockers M.L. Macroanalysis: Digital Methods and Literary History. Urbana; Chicago; Springfield: University of Illinois Press, 2013.
 + Andrew Piper. Enumerations: Data and Literary Studies. Chicago: The University of Chicago Press, 2018.
-+ The Shape of Data in Digital Humanities: Modeling Texts and Text-based Resources.
++ The Shape of Data in Digital Humanities: Modeling Texts and Text-based Resources. Edited by Julia Flanders, Fotis Jannidis. Routlege, 2018.
