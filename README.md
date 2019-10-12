@@ -15,7 +15,7 @@
 
 ## Мастер-классы и тьюториалы
 + [III Московско-тартуская школа. Борис Орехов. План содержания](https://github.com/nevmenandr/brief-content)
-+ [III . Поэзия, написанная детьми](https://github.com/Avvrik/DH-Tutorial-poetry)
++ [III Московско-тартуская школа. Поэзия, написанная детьми](https://github.com/Avvrik/DH-Tutorial-poetry)
 + [II Московско-тартуская школа. Артем Шеля, Олег Собчук. Стилометрия](https://github.com/ancatmara/DH-Voronovo-Stylometry-2017)
 + [I Московско-тартуская школа. Борис Орехов. Игра престолов](https://github.com/nevmenandr/Martin_tutorial)
 + [DH-2018, HSE, весна 2018](https://github.com/digital-humanities-hse/DH-Minor-2018)
@@ -37,6 +37,7 @@
 + [Русская автоматическая транскрипция](https://github.com/lingvocodes/Russian-Automatic-Transcription)
 + [Разметка пословиц в тексте](https://github.com/lingvocodes/Russian-Paremiological-Markup)
 + Илья Гусев. [Библиотека для анализа и генерации стихов на русском языке](https://github.com/IlyaGusev/rupo)
++ [Извлечение прямой речи](https://github.com/DanilSko/speech)
 
 ## Исследования
 + [Памфлеты Stanford Literary Lab](https://litlab.stanford.edu/pamphlets/)
