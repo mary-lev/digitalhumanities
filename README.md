@@ -15,7 +15,7 @@
 
 ## Мастер-классы и тьюториалы
 + [III Московско-тартуская школа. Борис Орехов. План содержания](https://github.com/nevmenandr/brief-content)
-+ [III Московско-тартуская школа. Поэзия, написанная детьми](https://github.com/Avvrik/DH-Tutorial-poetry)
++ [III Московско-тартуская школа. Юлия Петухова. Поэзия, написанная детьми](https://github.com/Avvrik/DH-Tutorial-poetry)
 + [II Московско-тартуская школа. Артем Шеля, Олег Собчук. Стилометрия](https://github.com/ancatmara/DH-Voronovo-Stylometry-2017)
 + [I Московско-тартуская школа. Борис Орехов. Игра престолов](https://github.com/nevmenandr/Martin_tutorial)
 + [DH-2018, HSE, весна 2018](https://github.com/digital-humanities-hse/DH-Minor-2018)
@@ -23,8 +23,9 @@
 
 ## Проекты / Тексты
 + [Russian Drama Corpus in TEI](https://github.com/dracor-org/rusdracor)
-+ [Толстой в TEI](https://github.com/tolstoydigital/TEI)
++ [Толстой в TEI](https://github.com/tolstoydigital/TEI). [TolstoyDigital](http://digital.tolstoy.ru/tolstoy_search/data/)
 + [ДетКорпус](http://detcorpus.ru/)
++ [Учебный корпус текстов О. Мандельштама](https://github.com/pervosled/Mandelstam_TEI)
 
 ## Теория
 ### «Новое литературное обозрение». 2018. № 2
@@ -38,12 +39,14 @@
 + [Разметка пословиц в тексте](https://github.com/lingvocodes/Russian-Paremiological-Markup)
 + Илья Гусев. [Библиотека для анализа и генерации стихов на русском языке](https://github.com/IlyaGusev/rupo)
 + [Извлечение прямой речи](https://github.com/DanilSko/speech)
++ [Созинова О. А. Обнаружение рифмы в русских поэтических текстах](https://github.com/avonizos/Russian_rhyme_detector)
 
 ## Исследования
 + [Памфлеты Stanford Literary Lab](https://litlab.stanford.edu/pamphlets/)
 + [Артем Шеля. Случай Псевдо-Батенькова](https://github.com/perechen/pseudo_batenkov_unmasking)
 + [Борис Орехов, Павел Успенский. Гальванизация автора, или Эксперимент с нейронной поэзией // Новый мир. 2018. № 6](http://www.nm1925.ru/Archive/Journal6_2018_6/Content/Publication6_6935/Default.aspx)
 + [Профессии русских писателей по Википедии](https://weltliteratur.net/russian-writers-and-their-professions/)
++ [Созинова О. А. Граф как метод описания истории русской рифмы] (https://avonizos.github.io/rhymes_networks/)
 
 ## Визуализация
 + [Визуализация Толстого](https://colloquy.us:8443/Tolstoy/#home)
