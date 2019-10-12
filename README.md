@@ -1,10 +1,12 @@
 # digitalhumanities
 
-##[Data & Science: цифровые методы в гуманитарных науках в Яндексе 2 марта 2019 года](https://events.yandex.ru/events/ds/02-mar-2019/)
+##Видео
+[Data & Science: цифровые методы в гуманитарных науках в Яндексе 2 марта 2019 года](https://events.yandex.ru/events/ds/02-mar-2019/)
 
 ##Курсы и учебные материалы для филологов
 +[Школа лингвистики НИУ ВШЭ. 1 курс. 2019–2020. Михаил Нефедов, Даниил Скоринкин и Nick Howell](https://github.com/mannefedov/compling_nlp_hse_course)
-+ 
++[Школа лингвистики НИУ ВШЭ. 2 курс. Python for Linguists 2018. Оксана Дереза](https://github.com/ancatmara/learnpython2018)
++[Школа лингвистики НИУ ВШЭ. 2 курс. Learn Python 2017. Оксана Дереза](https://github.com/ancatmara/learnpython2017)
 
 ##Мастер-классы и тьюториалы
 +[III Московско-тартуская школа. Борис Орехов. План содержания](https://github.com/nevmenandr/brief-content)
