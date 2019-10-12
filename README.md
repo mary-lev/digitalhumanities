@@ -22,6 +22,7 @@
 
 ## Проекты
 + [Russian Drama Corpus in TEI](https://github.com/dracor-org/rusdracor)
++ [Толстой в TEI](https://github.com/tolstoydigital/TEI)
 
 ## Теория
 ### «Новое литературное обозрение». 2018. № 2
@@ -38,9 +39,10 @@
 + [Памфлеты Stanford Literary Lab](https://litlab.stanford.edu/pamphlets/)
 + [Артем Шеля. Случай Псевдо-Батенькова](https://github.com/perechen/pseudo_batenkov_unmasking)
 + [Борис Орехов, Павел Успенский. Гальванизация автора, или Эксперимент с нейронной поэзией // Новый мир. 2018. № 6](http://www.nm1925.ru/Archive/Journal6_2018_6/Content/Publication6_6935/Default.aspx)
++ [Профессии русских писателей по Википедии](https://weltliteratur.net/russian-writers-and-their-professions/)
 
 ## Визуализация
-##### [Визуализация Толстого](https://colloquy.us:8443/Tolstoy/#home)
++ [Визуализация Толстого](https://colloquy.us:8443/Tolstoy/#home)
 ##### Сергей Сметанин. Визуализация word2vec в TSNE: Google News и Лев Толстой / Google News and Leo Tolstoy: visualizing Word2Vec word embeddings using t-SNE
 + [github](https://github.com/sismetanin/word2vec-tsne)
 + [habrahabr](https://habr.com/en/company/mailru/blog/449984/)
@@ -52,6 +54,9 @@
 + Лотман Ю. Литературоведение должно быть наукой // Вопросы литературы. 1967. № 1. С. 90–100.
 + Моретти Ф. Дальнее чтение / Пер. с англ. А. Вдовина, О. Собчука и А. Шели; под науч. ред. И. Кушнаревой. М.: Издательство Института Гайдара, 2016.
 + Орехов Б.В. Искусственные нейронные сети как особый тип distant reading // Вестник Приамурского государственного университета им. Шолом-Алейхема. 2017. № 2 (27). С. 32–43.
++ Орехов Б., Успенский П., Файнберг В. Цифровые подходы к "Камер-фурьерскому журналу" В.Ф. Ходасевича // [Русская литература. 2018. № 3](https://www.academia.edu/37684838/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D1%8B_%D0%BA_%D0%9A%D0%B0%D0%BC%D0%B5%D1%80-%D1%84%D1%83%D1%80%D1%8C%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%83_%D0%92.%D0%A4._%D0%A5%D0%BE%D0%B4%D0%B0%D1%81%D0%B5%D0%B2%D0%B8%D1%87%D0%B0_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0._2018._3).
 + Пильщиков И.А. Наследие русской формальной школы и современная филология // Антропология культуры. Вып. 5: К 85-летию академика РАН Вяч.Вс. Иванова. М.: Институт мировой культуры МГУ, 2015. С. 319–350.
 + Ярхо Б.И. Методология точного литературоведения: Избранные труды по теории литературы / Изд. подгот. М.В. Акимова, И.А. Пильщиков и М.И. Шапир; под общ. ред. М.И. Шапира. М.: Языки славянских культур, 2006.
 + Jockers M.L. Macroanalysis: Digital Methods and Literary History. Urbana; Chicago; Springfield: University of Illinois Press, 2013.
++ Andrew Piper. Enumerations: Data and Literary Studies. Chicago: The University of Chicago Press, 2018.
++ The Shape of Data in Digital Humanities: Modeling Texts and Text-based Resources.
