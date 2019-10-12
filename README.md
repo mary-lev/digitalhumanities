@@ -36,6 +36,7 @@
 + [Russtress: расстановка ударений](https://github.com/MashaPo/russtress)
 + [Русская автоматическая транскрипция](https://github.com/lingvocodes/Russian-Automatic-Transcription)
 + [Разметка пословиц в тексте](https://github.com/lingvocodes/Russian-Paremiological-Markup)
++ Илья Гусев. [Библиотека для анализа и генерации стихов на русском языке](https://github.com/IlyaGusev/rupo)
 
 ## Исследования
 + [Памфлеты Stanford Literary Lab](https://litlab.stanford.edu/pamphlets/)
