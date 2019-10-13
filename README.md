@@ -12,6 +12,7 @@
 + [Семинары по курсу «Цифровая грамотность» для 1 курса программы «Иностранные языки и межкультурная коммуникация» НИУ ВШЭ (2019). Оксана Дереза](https://github.com/ancatmara/DL-SFL-2019)
 + [NLP-блок курса "Практический анализ данных" (ФКН НИУ ВШЭ). Оксана Дереза](https://github.com/ancatmara/data-science-nlp)
 + [Программирование и лингвистические данные](https://github.com/pykili/pykili.github.io)
++ [Цифровая история. Динара Гагарина. HSE](https://courses.openedu.ru/courses/course-v1:hse+DIGHIST+fall_2019/info)
 
 ## Мастер-классы и тьюториалы
 + [III Московско-тартуская школа. Борис Орехов. План содержания](https://github.com/nevmenandr/brief-content)
