@@ -36,6 +36,8 @@
 + [Игорь Пильщиков. Франко Моретти и новый квантитативный формализм](https://magazines.gorky.media/nlo/2018/2/franko-moretti-i-novyj-kvantitativnyj-formalizm.html)
 + [А. И. Рейтблат. Теория без фактов, цифры без теории](https://magazines.gorky.media/nlo/2018/2/teoriya-bez-faktov-czifry-bez-teorii.html)
 
++ [Цифровые гуманитарные науки. Хрестоматия. Красноярск: СФУ, 2017.](http://discovery.ucl.ac.uk/1447358/1/Terraces__i-531505996.pdf)
+
 ## Инструменты
 + [Сюжет. An R package for the extraction of sentiment and sentiment-based plot arcs from text.](https://github.com/mjockers/syuzhet)
 + [Russtress: расстановка ударений](https://github.com/MashaPo/russtress)
@@ -50,7 +52,7 @@
 + [Артем Шеля. Случай Псевдо-Батенькова](https://github.com/perechen/pseudo_batenkov_unmasking)
 + [Борис Орехов, Павел Успенский. Гальванизация автора, или Эксперимент с нейронной поэзией // Новый мир. 2018. № 6](http://www.nm1925.ru/Archive/Journal6_2018_6/Content/Publication6_6935/Default.aspx)
 + [Профессии русских писателей по Википедии](https://weltliteratur.net/russian-writers-and-their-professions/)
-+ [Созинова О. А. Граф как метод описания истории русской рифмы] (https://avonizos.github.io/rhymes_networks/)
++ [Созинова О. А. Граф как метод описания истории русской рифмы](https://avonizos.github.io/rhymes_networks/)
 
 ## Визуализация
 + [Визуализация Толстого](https://colloquy.us:8443/Tolstoy/#home)
