@@ -4,6 +4,8 @@
 + [Data & Science: цифровые методы в гуманитарных науках в Яндексе 2 марта 2019 года](https://events.yandex.ru/events/ds/02-mar-2019/)
 + [Борис Орехов. Современный метод компьютерной атрибуции текстов: надежность, ограничения, результаты. ИРЛИ. 14 марта 2019 года](https://www.youtube.com/watch?v=dctOHDggv1M)
 + [Анастасия Бонч-Осмоловская. Совсем небольшие данные](https://www.youtube.com/watch?v=OYo42Yeok8I)
++ [Анастасия Бонч-Осмоловская. Цифровые технологии в гуманитарных науках](https://www.youtube.com/watch?v=fhup-ZBW6tg)
++ [Даниил Скоринкин. Сетевой анализ художественной литературы](https://www.youtube.com/watch?v=04Mnr6lqOEM)
 
 ## Курсы и учебные материалы для филологов
 + [Школа лингвистики НИУ ВШЭ. 1 курс. 2019–2020. Михаил Нефедов, Даниил Скоринкин и Nick Howell](https://github.com/mannefedov/compling_nlp_hse_course)
@@ -40,7 +42,9 @@
 + [Цифровые гуманитарные науки. Хрестоматия. Красноярск: СФУ, 2017.](http://discovery.ucl.ac.uk/1447358/1/Terraces__i-531505996.pdf)
 
 ## Инструменты
+### R
 + [Сюжет. An R package for the extraction of sentiment and sentiment-based plot arcs from text.](https://github.com/mjockers/syuzhet)
+### Python
 + [Russtress: расстановка ударений](https://github.com/MashaPo/russtress)
 + [Русская автоматическая транскрипция](https://github.com/lingvocodes/Russian-Automatic-Transcription)
 + [Разметка пословиц в тексте](https://github.com/lingvocodes/Russian-Paremiological-Markup)
@@ -58,10 +62,10 @@
 
 ## Визуализация
 + [Визуализация Толстого](https://colloquy.us:8443/Tolstoy/#home)
-##### Сергей Сметанин. Визуализация word2vec в TSNE: Google News и Лев Толстой / Google News and Leo Tolstoy: visualizing Word2Vec word embeddings using t-SNE
-+ [github](https://github.com/sismetanin/word2vec-tsne)
-+ [habrahabr](https://habr.com/en/company/mailru/blog/449984/)
-+ [medium](https://towardsdatascience.com/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d)
++ Сергей Сметанин. Визуализация word2vec в TSNE: Google News и Лев Толстой / Google News and Leo Tolstoy: visualizing Word2Vec word embeddings using t-SNE
+  + [github](https://github.com/sismetanin/word2vec-tsne)
+  + [habrahabr](https://habr.com/en/company/mailru/blog/449984/)
+  + [medium](https://towardsdatascience.com/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d)
 
 ## Библиография
 + Акимова М.В., Шапир М.И. Борис Исаакович Ярхо и стратегия „точного литературоведения” // Ярхо Б.И. Методология точного литературоведения: Избранные труды по теории литературы / Изд. подгот. М.В. Акимова, И.А. Пильщиков и М.И. Шапир; под общ. ред. М.И. Шапира. М.: Языки славянских культур, 2006. С. vii—xxxii.
