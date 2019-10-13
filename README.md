@@ -3,6 +3,7 @@
 ## Видео
 + [Data & Science: цифровые методы в гуманитарных науках в Яндексе 2 марта 2019 года](https://events.yandex.ru/events/ds/02-mar-2019/)
 + [Борис Орехов. Современный метод компьютерной атрибуции текстов: надежность, ограничения, результаты. ИРЛИ. 14 марта 2019 года](https://www.youtube.com/watch?v=dctOHDggv1M)
++ [Анастасия Бонч-Осмоловская. Совсем небольшие данные](https://www.youtube.com/watch?v=OYo42Yeok8I)
 
 ## Курсы и учебные материалы для филологов
 + [Школа лингвистики НИУ ВШЭ. 1 курс. 2019–2020. Михаил Нефедов, Даниил Скоринкин и Nick Howell](https://github.com/mannefedov/compling_nlp_hse_course)
@@ -46,6 +47,7 @@
 + Илья Гусев. [Библиотека для анализа и генерации стихов на русском языке](https://github.com/IlyaGusev/rupo)
 + [Извлечение прямой речи](https://github.com/DanilSko/speech)
 + [Созинова О. А. Обнаружение рифмы в русских поэтических текстах](https://github.com/avonizos/Russian_rhyme_detector)
++ [Конвертер TEI to json](https://github.com/elheloum/TEI2JSON)
 
 ## Исследования
 + [Памфлеты Stanford Literary Lab](https://litlab.stanford.edu/pamphlets/)
