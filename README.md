@@ -23,9 +23,12 @@
 
 ## Проекты / Тексты
 + [Russian Drama Corpus in TEI](https://github.com/dracor-org/rusdracor)
++ [Пушкин Digital: Электронное академическое издание](https://pushkin-digital.ru/)
 + [Толстой в TEI](https://github.com/tolstoydigital/TEI). [TolstoyDigital](http://digital.tolstoy.ru/tolstoy_search/data/)
-+ [ДетКорпус](http://detcorpus.ru/)
-+ [Учебный корпус текстов О. Мандельштама](https://github.com/pervosled/Mandelstam_TEI)
++ [Детская литература](http://detcorpus.ru/)
++ [Учебный корпус текстов О. Мандельштама. HSE](https://github.com/pervosled/Mandelstam_TEI)
++ [Русская элегия. Антонина Мартыненко](http://textograf.ru/textograf/#/static)
++ [Русские песни 1800–1840 годов. Артем Шеля](https://github.com/perechen/Russian.songs.1800-1840)
 
 ## Теория
 ### «Новое литературное обозрение». 2018. № 2
