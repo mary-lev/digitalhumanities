@@ -8,6 +8,7 @@
 + [Даниил Скоринкин. Сетевой анализ художественной литературы](https://www.youtube.com/watch?v=04Mnr6lqOEM)
 
 ## Курсы и учебные материалы для филологов
++ [Наука о данных в R для программы Цифровых гуманитарных исследований. Г. А. Мороз, И. С. Поздняков](https://agricolamz.github.io/DS_for_DH/)
 + [Школа лингвистики НИУ ВШЭ. 1 курс. 2019–2020. Михаил Нефедов, Даниил Скоринкин и Nick Howell](https://github.com/mannefedov/compling_nlp_hse_course)
 + [Школа лингвистики НИУ ВШЭ. 2 курс. Python for Linguists 2018. Оксана Дереза](https://github.com/ancatmara/learnpython2018)
 + [Школа лингвистики НИУ ВШЭ. 2 курс. Learn Python 2017. Оксана Дереза](https://github.com/ancatmara/learnpython2017)
@@ -44,6 +45,7 @@
 ## Инструменты
 ### R
 + [Сюжет. An R package for the extraction of sentiment and sentiment-based plot arcs from text.](https://github.com/mjockers/syuzhet)
++ [stylo R package](https://sites.google.com/site/computationalstylistics/stylo)
 ### Python
 + [Russtress: расстановка ударений](https://github.com/MashaPo/russtress)
 + [Русская автоматическая транскрипция](https://github.com/lingvocodes/Russian-Automatic-Transcription)
